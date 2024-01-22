@@ -1,0 +1,16 @@
+fonts.c:13:6:Barlow_bold_12	8	static
+fonts.c:19:6:Barlow_bold_18	8	static
+fonts.c:25:6:Barlow_bold_20	8	static
+fonts.c:31:6:Barlow_bold_32	8	static
+fonts.c:37:6:Barlow_bold_24	8	static
+fonts.c:43:6:Barlow_extrabold_20	8	static
+fonts.c:49:6:Barlow_extrabold_24	8	static
+fonts.c:55:6:Barlow_extrabold_28	8	static
+fonts.c:61:6:Barlow_extrabold_40	8	static
+fonts.c:67:6:Barlow_medium_10	8	static
+fonts.c:73:6:Barlow_medium_12	8	static
+fonts.c:79:6:Barlow_semibold_14	8	static
+fonts.c:85:6:Barlow_semibold_20	8	static
+fonts.c:91:6:Barlow_semibold_32	8	static
+fonts.c:97:6:Barlow_semibold_48	8	static
+fonts.c:103:6:Barlow_semibold_112	8	static

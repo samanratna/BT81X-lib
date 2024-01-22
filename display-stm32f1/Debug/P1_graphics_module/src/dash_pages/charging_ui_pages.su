@@ -1,0 +1,9 @@
+charging_ui_pages.c:8:6:Wait_For_Verification	16	static
+charging_ui_pages.c:31:6:Click_To_Disconnect_Charger	16	static
+charging_ui_pages.c:61:6:Charger_Out_Of_Service	16	static
+charging_ui_pages.c:84:6:Press_Button_To_Initiate_Charging	16	static
+charging_ui_pages.c:115:6:Insufficient_Balance_For_Charging	16	static
+charging_ui_pages.c:137:6:Verification_Process	16	static
+charging_ui_pages.c:159:6:Retry_Verification	16	static
+charging_ui_pages.c:182:6:Verification_Failed	16	static
+charging_ui_pages.c:204:6:Charging_Initiated	8	static

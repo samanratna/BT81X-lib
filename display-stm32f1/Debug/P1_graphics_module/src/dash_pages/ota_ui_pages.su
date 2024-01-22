@@ -1,0 +1,12 @@
+ota_ui_pages.c:7:6:Precheck_SoC	16	static
+ota_ui_pages.c:36:6:Precheck_Network_Strength	16	static
+ota_ui_pages.c:59:6:Precheck_Firmware_Version	16	static
+ota_ui_pages.c:82:6:Precheck_Balance	16	static
+ota_ui_pages.c:105:6:Downloading_Firmware	16	static
+ota_ui_pages.c:147:6:Installing_Firmware	16	static
+ota_ui_pages.c:171:6:Firmware_Installation_Successful	16	static
+ota_ui_pages.c:199:6:Firmware_Installation_Failed	16	static
+ota_ui_pages.c:230:6:Network_Connection_Error	16	static
+ota_ui_pages.c:253:6:Firmware_Version_Upto_Date	16	static
+ota_ui_pages.c:276:6:Insufficient_SoC_For_OTA	16	static
+ota_ui_pages.c:300:6:Insufficient_Balance_For_OTA	16	static

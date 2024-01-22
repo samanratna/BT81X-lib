@@ -1,0 +1,9 @@
+platform.c:12:8:platform_init	16	static
+platform.c:20:6:platform_sleep_ms	16	static
+platform.c:27:8:platform_spi_init	16	static
+platform.c:34:6:platform_spi_deinit	16	static
+platform.c:41:10:platform_spi_send_recv_byte	40	static
+platform.c:53:10:platform_spi_send_data	24	static
+platform.c:63:6:platform_spi_recv_data	24	static
+platform.c:71:8:platform_gpio_init	40	static
+platform.c:88:8:platform_gpio_value	16	static

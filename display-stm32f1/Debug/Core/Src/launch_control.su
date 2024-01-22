@@ -1,0 +1,6 @@
+launch_control.c:15:6:Select_Startup_Message_Screen	8	static
+launch_control.c:29:6:Select_DC_Charging_Page	8	static
+launch_control.c:71:6:Select_Firmware_Update_Page	8	static
+launch_control.c:125:6:Select_BLE_Connection_Page	8	static
+launch_control.c:147:6:Launch_UI	8	static
+launch_control.c:263:6:Display_Backlight_Power_Recycle	8	static

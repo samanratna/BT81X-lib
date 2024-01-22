@@ -1,0 +1,8 @@
+print.c:21:13:reverseStr	40	static
+print.c:52:17:unsignedToStr	32	static
+print.c:87:17:intToStr	32	static
+print.c:121:28:printChar	16	static
+print.c:126:28:printString	16	static
+print.c:132:12:strToInt	32	static
+print.c:144:10:print	96	static
+print.c:210:10:sprint	116	static

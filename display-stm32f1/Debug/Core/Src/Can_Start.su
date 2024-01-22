@@ -1,0 +1,4 @@
+Can_Start.c:30:6:init_can	8	static
+Can_Start.c:50:6:filter_can	48	static
+Can_Start.c:69:6:start_can	8	static
+Can_Start.c:75:6:Start_Can_Communication	8	static

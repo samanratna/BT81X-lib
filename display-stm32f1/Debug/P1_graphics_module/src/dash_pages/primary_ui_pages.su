@@ -1,0 +1,4 @@
+primary_ui_pages.c:8:6:Starting_Splashscreen	32	static
+primary_ui_pages.c:78:6:Ending_Splashscreen	32	static
+primary_ui_pages.c:123:6:Discharging_UI	8	static
+primary_ui_pages.c:162:6:Stats_UI	16	static

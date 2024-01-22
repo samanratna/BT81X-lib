@@ -1,0 +1,3 @@
+ble_ui_pages.c:6:6:Show_Passkey	16	static
+ble_ui_pages.c:33:6:Pairing_Successful	16	static
+ble_ui_pages.c:54:6:Pairing_Failed	16	static

@@ -1,0 +1,7 @@
+design_calculations.c:18:6:calculate_range_for_barGraph	24	static
+design_calculations.c:56:6:calculate_coordinateY_for_weekly_data	16	static
+design_calculations.c:63:10:calculate_odo_max	16	static
+design_calculations.c:75:6:dynamic_dot	24	static
+design_calculations.c:100:6:dynamic_exclamation	24	static
+design_calculations.c:118:6:dynamic_warning_sign	16	static
+design_calculations.c:137:6:lock_screen_colon_blink	24	static

@@ -1,0 +1,9 @@
+graphical_operations.c:7:6:init_host	8	static
+graphical_operations.c:13:6:initialize_graphics_controller	8	static
+graphical_operations.c:31:6:display_power_down	8	static
+graphical_operations.c:38:6:display_power_up	8	static
+graphical_operations.c:45:6:launch_dash	8	static
+graphical_operations.c:50:6:clearscreen	8	static
+graphical_operations.c:55:6:clear_buffer	8	static
+graphical_operations.c:63:6:Load_ImageASTC	32	static
+graphical_operations.c:84:6:Draw_Triangle	40	static

@@ -1,0 +1,4 @@
+pn_can_sync_layer.c:14:17:crc32_calculate	32	static
+pn_can_sync_layer.c:26:17:getMillis	8	static
+pn_can_sync_layer.c:35:5:rxSendThread	72	static
+pn_can_sync_layer.c:125:5:rxReceiveThread	72	static

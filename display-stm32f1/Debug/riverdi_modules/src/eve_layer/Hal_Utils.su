@@ -1,0 +1,8 @@
+Hal_Utils.c:35:6:fadeout	24	static
+Hal_Utils.c:48:6:fadein	24	static
+Hal_Utils.c:63:9:cal_average	32	static
+Hal_Utils.c:94:9:qsin	24	static
+Hal_Utils.c:110:9:qcos	16	static
+Hal_Utils.c:115:6:polarxy	32	static
+Hal_Utils.c:123:6:polar	40	static
+Hal_Utils.c:132:9:da	16	static

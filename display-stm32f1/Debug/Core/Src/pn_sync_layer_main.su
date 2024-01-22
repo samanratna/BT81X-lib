@@ -1,0 +1,5 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+core_cm3.h:1547:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+pn_sync_layer_main.c:52:13:rxCallback	24	static
+pn_sync_layer_main.c:59:6:pn_can_sync_layer_thread	24	static
+pn_sync_layer_main.c:75:6:pn_can_sync_layer_recCAN	40	static
